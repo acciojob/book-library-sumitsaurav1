@@ -1,18 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+}
 .book-library{
-	backgrond-color:#f8f8f8;
+	backgrond-color:#ffffff;
 }
 .header{
-/* 	background-color:#ffffff; */
+/* 	background-color:rgb(241,241,241); */
 	text-align:center;
 	border-radius:5px;
 	padding:10px;
 	margin:10px;
 }
 .book{
-/* 	background-color:rgb(241,241,241);
-	*/
-	background-color:#ffffff;
+	background-color:#f8f8f8;
 	margin:10px;
 	padding:10px;
 	position:relative;
