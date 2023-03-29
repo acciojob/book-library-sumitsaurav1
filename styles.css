@@ -14,7 +14,7 @@ body{
 }
 .book{
 /* 	background-color:rgb(46, 204, 113); */
-	background-color:#ffffff;
+	background-color:#F1F1F0;
 	
 	margin:10px;
 	padding:10px;
@@ -25,7 +25,7 @@ body{
 	display:flex;
 	flex-direction:row;
 	justify-content:center;
-	background-color:rgb(46, 204, 113);
+/* 	background-color:rgb(46, 204, 113); */
 }
 p{
 	color:#777777;
