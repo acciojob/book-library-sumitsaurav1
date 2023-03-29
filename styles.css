@@ -34,5 +34,6 @@ button{
 	width:100%;
 	background-color:#2ecc71;
 	border:none;
+	border-radius:5px;
 	color:rgb(205,241,217);
 }
